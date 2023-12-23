@@ -28,11 +28,11 @@ pip3 install --upgrade openai
 pip3 install streamlit
 ```
 
-### Step 3 - Update OpenAI API Key
+### Step 3 - Update OpenAI API Key & Assistant ID
 
-Modify `/streamlit/secrets.toml.copy` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys), and [assistant_id](https://platform.openai.com/assistants)
+Modify `/.streamlit/secrets.toml.copy` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys), and [assistant_id](https://platform.openai.com/assistants)
 
-And rename it to `secrets.toml`.
+And rename it to `/.streamlit/secrets.toml`.
 
 ## Example usage
 
