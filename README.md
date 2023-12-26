@@ -4,7 +4,7 @@
 
 Papa Johns Pizza Assistant - Interact with OpenAI Assistant API using python Streamlit
 
-Here's the [YouTube Video](https://youtu.be/ROsb_73EpzE).
+Here's the [YouTube Video](https://youtu.be/yhASXY6rbjo).
 
 <a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
